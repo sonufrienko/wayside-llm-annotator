@@ -1,0 +1,28 @@
+id,message,sender,replyToId
+1,"Hi, I have a question about dental coverage.",Client A,
+2,"Sure, what can I help you with?",Benefits Team,1
+3,What's my orthodontic coverage like?,Client A,2
+4,Can you clarify the vision benefits?,Client B,
+5,Of course! What specifically do you need to know?,Benefits Team,4
+6,How often can I get a vision exam with our insurance?,Client B,5
+7,I think there was a mistake in my claim.,Client C,
+8,You're misunderstanding this entirely.,Benefits Team,7
+9,"No, you're misunderstanding. This is frustrating!",Client C,8
+10,Do I need a referral for dental specialist visits?,Client D,
+11,"No, referrals are not required for dental specialists.",Benefits Team,10
+12,Thanks for clarifying!,Client D,11
+13,Can you explain the details of the vision plan?,Client E,
+14,Our vision plan covers annual exams and glasses.,Benefits Team,13
+15,"Hey, do you have the latest sales report?",Client F,
+16,"Yes, I’ll send it to you shortly.",Benefits Team,15
+17,Thanks! Much appreciated.,Client F,16
+18,Can you explain the process for onboarding new hires?,Client G,
+19,"Sure, I’ll send you a detailed guide.",Benefits Team,18
+20,What’s the status of my tech support ticket?,Client H,
+21,We’re currently investigating the issue and will update you soon.,Benefits Team,20
+22,Can you update the address on my account?,Client I,
+23,"Sure, can you provide the new address?",Benefits Team,22
+24,"123 Main St, Springfield.",Client I,23
+25,"Got it, your address has been updated.",Benefits Team,24
+26,Is the conference call still scheduled for 3 PM?,Client J,
+27,"Yes, the link has been shared with all participants.",Benefits Team,26
